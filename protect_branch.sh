@@ -4,7 +4,7 @@
 GITHUB_TOKEN="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"
 OWNER="uditthakur2001"
 REPO="rules-repo"
-BRANCH="news-repo"
+BRANCH="main"
 
 # API URL
 API_URL="https://api.github.com/repos/$OWNER/$REPO/branches/$BRANCH/protection"
